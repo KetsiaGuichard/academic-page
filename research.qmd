@@ -1,0 +1,17 @@
+---
+title: "Recherche"
+---
+
+### Conférences
+
+#### À venir
+
+- 2024 (avril) : **Exploration de données de mobilité citoyennes : cas d'étude de la ville de Châteaubourg**, 10ème Rencontre des Jeunes Statisticien·e·s (Porquerolles)
+
+
+### Autres activités scientifiques
+
+#### 2024
+
+-   co-organisation de la [Journée Doctorant·e·s Rennais·e·s en Statistique](https://indico.math.cnrs.fr/e/jdrs2024) (mars 2024)
+-   comité scientifique de l'événement [Égalité et sciences: la place des femmes](https://agenda.univ-rennes.fr/events/egalite-et-sciences-la-place-des-femmes-edition-2024?nc=eyJpbmRleCI6NDcsInRvdGFsIjoyMTY0fQ%3D%3D) (mars 2024)

@@ -1,0 +1,53 @@
+---
+title: "Enseignement"
+---
+
+::: {.callout-tip icon=false collapse="true" appearance="minimal"}
+
+# Année 2023-2024
+
+##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
+
+-   Cours magistral - Remise à niveau en probabilités et statistiques pour le master Sciences du Numérique et Sport (22h - Niveau M1)
+
+##### Université de Rennes
+
+-   TP - Outils informatiques (Algorithmie) en L1 Mathématiques et application (24h)
+
+##### Université de Rennes 2
+
+-   TD intégré - Mathématiques pour les sciences humaines et sociales en L1 AES (24h)
+
+:::
+
+::: {.callout-tip icon=false collapse="true" appearance="minimal"}
+
+# Année 2022-2023
+
+##### ENSAI
+
+-   Cours magistral - Statistique exploratoire, visualisation de données et data-storytelling (24h - Master Spécialisé)
+
+-   TD - Chaîne de Markov (18h - Niveau M1)
+
+-   TP - Statistique descriptive avec SAS (30h - Niveau L3)
+
+-   TP - Introduction à la programmation objet avec Python (42h - Niveau L3)
+
+-   Accompagnement de projet - Projet statistique sur données réelles (36h - 8 groupes - Niveau L3)
+
+-   Présidence de jury - projet statistique de deuxième année
+
+:::
+
+::: {.callout-tip icon=false collapse="true" appearance="minimal"}
+
+# Année 2021-2022
+
+##### ENSAI
+
+-   Cours magistral - Datavisualisation et data-storytelling (18h - Master Spécialisé)
+
+-   Présidence de jury - projet statistique de deuxième année
+
+:::
