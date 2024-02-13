@@ -12,6 +12,11 @@ website:
       - teaching.qmd
       - others.qmd
   search: false
+  page-footer: 
+    left: Ce site a été construit à l'aide de [Quarto](https://quarto.org/) - dernière mise à jour Février 2024
+    right: 
+     - icon: github
+       href: https://github.com/KetsiaGuichard/academic-page
 
 format:
   html:
