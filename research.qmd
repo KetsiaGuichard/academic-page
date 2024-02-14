@@ -6,8 +6,8 @@ title: "Recherche"
 
 #### À venir
 
-- 2024 (avril) : **Exploration de données de mobilité citoyennes : cas d'étude de la ville de Châteaubourg**, 10ème Rencontre des Jeunes Statisticien·e·s (Porquerolles)
-
+-   2024 (avril) : **Exploration de données de mobilité citoyennes : cas d'étude de la ville de Châteaubourg**, 10ème Rencontres des Jeunes Statisticien·e·s (Porquerolles)
+-   2024 (juin) : **Mobilité dans les zones de densité intermédiaire : une exploration spatio-temporelle de données de science citoyenne**, 6ème Rencontres Francophones Transport Mobilité (Bruxelles)
 
 ### Autres activités scientifiques
 
