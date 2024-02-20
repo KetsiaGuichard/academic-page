@@ -23,6 +23,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-
+    include-in-header: 
+      file: header.html
+    include-before-body: 
+      file: body.html
 editor: visual
 
