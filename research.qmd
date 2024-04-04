@@ -6,8 +6,12 @@ title: "Recherche"
 
 #### À venir
 
--   2024 (avril) : **Exploration de données de mobilité citoyennes : cas d'étude de la ville de Châteaubourg**, 10ème Rencontres des Jeunes Statisticien·e·s (Porquerolles)
--   2024 (juin) : **Mobilité dans les zones de densité intermédiaire : une exploration spatio-temporelle de données de science citoyenne**, 6ème Rencontres Francophones Transport Mobilité (Bruxelles)
+-   2024 (juin) : **Mobilité dans les zones de densité intermédiaire : une exploration spatio-temporelle de données de science citoyenne**, [6ème Rencontres Francophones Transport Mobilité (Bruxelles)](https://rftm2024.sciencesconf.org/)
+
+#### Passées
+
+-   2024 (mars) : **Exploration de données de mobilité citoyennes par l'analyse de données fonctionnelles**, [Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)](https://indico.math.cnrs.fr/e/jdrs2024)
+-   2024 (avril) : **Exploration de données de mobilité citoyennes : cas d'étude de la ville de Châteaubourg**, [10ème Rencontres des Jeunes Statisticien·e·s (Porquerolles)](https://rjs2024.sciencesconf.org)
 
 ### Autres activités scientifiques
 
