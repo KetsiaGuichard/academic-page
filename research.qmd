@@ -6,6 +6,7 @@ title: "Recherche"
 
 #### À venir
 
+- 2024 (juin) : **telraamStats : visualisation des mobilités pour la recherche et les citoyen·ne·s**, [10ème Rencontres R (Vannes)](https://rr2024.sciencesconf.org/)
 -   2024 (juin) : **Mobilité dans les zones de densité intermédiaire : une exploration spatio-temporelle de données de science citoyenne**, [6ème Rencontres Francophones Transport Mobilité (Bruxelles)](https://rftm2024.sciencesconf.org/)
 
 #### Passées

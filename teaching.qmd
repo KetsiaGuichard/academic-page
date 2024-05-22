@@ -16,6 +16,10 @@ title: "Enseignement"
 ##### Université de Rennes 2
 
 -   TD intégré - Mathématiques pour les sciences humaines et sociales en L1 AES (24h)
+
+##### ENSAI
+
+-   Présidence de jury - projet statistique de deuxième année
 :::
 
 ::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
