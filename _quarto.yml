@@ -9,6 +9,7 @@ website:
         text: Home
       - cv.qmd
       - research.qmd
+      - softwares.qmd
       - teaching.qmd
       - others.qmd
   search: false

@@ -1,0 +1,14 @@
+---
+title: "Logiciels"
+---
+
+### R
+
+Je suis contributrice du package R [**telraamStats**](https://github.com/agistaterre/telraamStats), qui permet de :
+
+- récupérer facilement les données des capteurs de mobilité Telraam sans passer par l'API
+- visualiser ces informations de mobilités (vitesse, trafic...)
+
+Ce package généraliste est à destination de publics variés, tant au niveau des disciplines académiques (statistiques, mobilités, économie, géographie, ...) que des profils professionnels (recherche, association, communes).
+
+Pour un meilleur aperçu du package, vous pouvez consulter sa documentation et ses exemples d'utilisation à [cette adresse](https://annuaire.agistaterre.org/telraamStats/).
