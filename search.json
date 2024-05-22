@@ -14,6 +14,13 @@
     "text": "Je suis doctorante en statistique depuis octobre 2023 à l’IRMAR, sous l’encadrement de Loïc Le Marrec, Véronique Thelen et Ioana Gavra. Je m’intéresse à l’analyse de données fonctionnelles dans le cadre de données réelles de mobilité, avec comme terrain de jeu la ville de Châteaubourg.\nDiplômée de l’ENSAI, j’ai travaillé six années en tant que Data Scientist. Mon parcours professionnel m’a permis d’acquérir une expertise en manipulation de données réelles et des capacités de vulgarisation. Après une expérience d’enseignement en école d’ingénieur, mon doctorat s’inscrit comme une nouvelle étape, guidé par mon intérêt pour les questions éthiques, explorant des applications concrètes dans le domaine des mobilités."
   },
   {
+    "objectID": "softwares.html",
+    "href": "softwares.html",
+    "title": "Logiciels",
+    "section": "",
+    "text": "R\nJe suis contributrice du package R telraamStats, qui permet de :\n\nrécupérer facilement les données des capteurs de mobilité Telraam sans passer par l’API\nvisualiser ces informations de mobilités (vitesse, trafic…)\n\nCe package généraliste est à destination de publics variés, tant au niveau des disciplines académiques (statistiques, mobilités, économie, géographie, …) que des profils professionnels (recherche, association, communes).\nPour un meilleur aperçu du package, vous pouvez consulter sa documentation et ses exemples d’utilisation à cette adresse."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Recherche",
