@@ -18,7 +18,7 @@
     "href": "softwares.html",
     "title": "Logiciels",
     "section": "",
-    "text": "R\nJe suis contributrice du package R telraamStats, qui permet de :\n\nrécupérer facilement les données des capteurs de mobilité Telraam sans passer par l’API\nvisualiser ces informations de mobilités (vitesse, trafic…)\n\nCe package généraliste est à destination de publics variés, tant au niveau des disciplines académiques (statistiques, mobilités, économie, géographie, …) que des profils professionnels (recherche, association, communes).\nPour un meilleur aperçu du package, vous pouvez consulter sa documentation et ses exemples d’utilisation à cette adresse."
+    "text": "R\nJe suis contributrice du package R telraamStats, disponible directement sur le CRAN, qui permet de :\n\nrécupérer facilement les données des capteurs de mobilité Telraam sans passer par l’API\nvisualiser ces informations de mobilités (vitesse, trafic…)\n\nCe package généraliste est à destination de publics variés, tant au niveau des disciplines académiques (statistiques, mobilités, économie, géographie, …) que des profils professionnels (recherche, association, communes).\nPour un meilleur aperçu du package, vous pouvez consulter sa documentation et ses exemples d’utilisation à cette adresse."
   },
   {
     "objectID": "research.html",
