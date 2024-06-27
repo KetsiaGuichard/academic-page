@@ -1,7 +1,4 @@
----
-title: "Enseignement"
----
-
+::: {.content-visible when-profile="french"}
 ::: {.callout-tip icon="false" collapse="false" appearance="minimal"}
 # Année 2023-2024
 
@@ -49,3 +46,55 @@ title: "Enseignement"
 
 -   Présidence de jury - projet statistique de deuxième année
 :::
+:::
+
+::: {.content-visible when-profile="english"}
+::: {.callout-tip icon="false" collapse="false" appearance="minimal"}
+# Academic Year 2023-2024
+
+##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
+
+-   Lecture - Probability and Statistics Review for the Master's in Digital Sciences and Sports (22 hours - M1)
+
+##### Université de Rennes
+
+-   Practical Work - Computer Tools (Algorithmics) (24h - L1)
+
+##### Université de Rennes 2
+
+-   Lecture & Tutorial - Mathematics for Social Sciences (24 hours - L1)
+
+##### ENSAI
+
+-   Jury President - Second-Year Statistics Project
+:::
+
+::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
+# Academic Year 2022-2023
+
+##### ENSAI
+
+-   Lecture - Exploratory Statistics, Data Visualization, and Data Storytelling (24 hours - Specialized Master's)
+
+-   Tutorial - Markov Chain (18 hours - M1)
+
+-   Practical Work - Introduction to Object-Oriented Programming with Python (42 hours - L3)
+
+-   TP - Introduction à la programmation objet avec Python (42h - L3)
+
+-   Project Guidance - Statistical Project on Real Data (36 hours - 8 groups - L3)
+
+-   Jury President - Second-Year Statistics Project
+:::
+
+::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
+# Academic Year 2021-2022
+
+##### ENSAI
+
+-   Lecture - Data Visualization and Data Storytelling (18 hours - Specialized Master's)
+
+-   Jury President - Second-Year Statistics Project
+:::
+:::
+
