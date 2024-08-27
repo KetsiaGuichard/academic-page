@@ -1,5 +1,17 @@
 ::: {.content-visible when-profile="french"}
 ::: {.callout-tip icon="false" collapse="false" appearance="minimal"}
+# Année 2024-2025
+
+##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
+
+-   Cours magistral - Remise à niveau en probabilités et statistiques pour le master Sciences du Numérique et Sport (22h - Niveau M1)
+
+##### Université de Rennes
+
+-   TP - Outils informatiques (Algorithmie) en L1 Mathématiques et application (24h)
+:::
+
+::: {.callout-tip icon="false" collapse="false" appearance="minimal"}
 # Année 2023-2024
 
 ##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
@@ -49,6 +61,19 @@
 :::
 
 ::: {.content-visible when-profile="english"}
+::: {.callout-tip icon="false" collapse="false" appearance="minimal"}
+# Academic Year 2024-2025
+
+##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
+
+-   Lecture - Probability and Statistics Review for the Master's in Digital Sciences and Sports (22 hours - M1)
+
+##### Université de Rennes
+
+-   Practical Work - Computer Tools (Algorithmics) (24h - L1)
+:::
+
+
 ::: {.callout-tip icon="false" collapse="false" appearance="minimal"}
 # Academic Year 2023-2024
 
