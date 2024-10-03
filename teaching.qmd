@@ -11,7 +11,7 @@
 -   TP - Outils informatiques (Algorithmie) en L1 Mathématiques et application (24h)
 :::
 
-::: {.callout-tip icon="false" collapse="false" appearance="minimal"}
+::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
 # Année 2023-2024
 
 ##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
@@ -74,7 +74,7 @@
 :::
 
 
-::: {.callout-tip icon="false" collapse="false" appearance="minimal"}
+::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
 # Academic Year 2023-2024
 
 ##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
@@ -104,8 +104,6 @@
 -   Tutorial - Markov Chain (18 hours - M1)
 
 -   Practical Work - Introduction to Object-Oriented Programming with Python (42 hours - L3)
-
--   TP - Introduction à la programmation objet avec Python (42h - L3)
 
 -   Project Guidance - Statistical Project on Real Data (36 hours - 8 groups - L3)
 
