@@ -3,10 +3,10 @@
 
 #### Passées
 
--   2024 (juin) : **Mobilité dans les zones de densité intermédiaire : une exploration spatio-temporelle de données de science citoyenne**, [6ème Rencontres Francophones Transport Mobilité (Bruxelles)](https://rftm2024.sciencesconf.org/)
--   2024 (juin) : **telraamStats : visualisation des mobilités pour la recherche et les citoyen·ne·s**, [10ème Rencontres R (Vannes)](https://rr2024.sciencesconf.org/)
--   2024 (avril) : **Exploration de données de mobilité citoyennes : cas d'étude de la ville de Châteaubourg**, [10ème Rencontres des Jeunes Statisticien·e·s (Porquerolles)](https://rjs2024.sciencesconf.org)
--   2024 (mars) : **Exploration de données de mobilité citoyennes par l'analyse de données fonctionnelles**, [Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)](https://indico.math.cnrs.fr/e/jdrs2024)
+-   2024 (juin) : **Mobilité dans les zones de densité intermédiaire : une exploration spatio-temporelle de données de science citoyenne**, [6ème Rencontres Francophones Transport Mobilité (Bruxelles)](https://rftm2024.sciencesconf.org/)[🔗](https://hal.science/hal-04854156)
+-   2024 (juin) : **telraamStats : visualisation des mobilités pour la recherche et les citoyen·ne·s**, [10ème Rencontres R (Vannes)](https://rr2024.sciencesconf.org/)[🔗](https://hal.science/hal-04854168)
+-   2024 (avril) : **Exploration de données de mobilité citoyennes : cas d'étude de la ville de Châteaubourg**, [10ème Rencontres des Jeunes Statisticien·e·s (Porquerolles)](https://rjs2024.sciencesconf.org)[🔗](https://hal.science/hal-04854133)
+-   2024 (mars) : **Exploration de données de mobilité citoyennes par l'analyse de données fonctionnelles**, [Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)](https://indico.math.cnrs.fr/e/jdrs2024)[🔗](https://hal.science/hal-04845540)
 
 ### Autres activités scientifiques
 
@@ -23,10 +23,10 @@
 
 #### Passées
 
--   2024 (June) : **Mobility in Medium-Density Areas: A Spatio-Temporal Exploration of Citizen Science Data**, [6th Rencontres Francophones Transport Mobilité (Bruxelles)](https://rftm2024.sciencesconf.org/)
--   2024 (June) : **telraamStats: Mobility Visualization for Research and Citizens**, [10th Rencontres R (Vannes)](https://rr2024.sciencesconf.org/)
--   2024 (April) : **Exploration of Citizen Mobility Data: Case Study of the City of Châteaubourg**, [10th Rencontres des Jeunes Statisticien·e·s (Porquerolles)](https://rjs2024.sciencesconf.org)
--   2024 (March) : **Exploration of Citizen Mobility Data through Functional Data Analysis**, [Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)](https://indico.math.cnrs.fr/e/jdrs2024)
+-   2024 (June) : **Mobility in Medium-Density Areas: A Spatio-Temporal Exploration of Citizen Science Data**, [6th Rencontres Francophones Transport Mobilité (Bruxelles)](https://rftm2024.sciencesconf.org/)[🔗](https://hal.science/hal-04854156)
+-   2024 (June) : **telraamStats: Mobility Visualization for Research and Citizens**, [10th Rencontres R (Vannes)](https://rr2024.sciencesconf.org/)[🔗](https://hal.science/hal-04854168)
+-   2024 (April) : **Exploration of Citizen Mobility Data: Case Study of the City of Châteaubourg**, [10th Rencontres des Jeunes Statisticien·e·s (Porquerolles)](https://rjs2024.sciencesconf.org)[🔗](https://hal.science/hal-04854133)
+-   2024 (March) : **Exploration of Citizen Mobility Data through Functional Data Analysis**, [Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)](https://indico.math.cnrs.fr/e/jdrs2024)[🔗](https://hal.science/hal-04845540)
 
 ### Other Scientific Activities
 
