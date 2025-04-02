@@ -1,6 +1,7 @@
 ::: {.content-visible when-profile="french"}
 ### Diffusion
 
+-   2025 (février) : **Quand les déplacements deviennent une question statistique**, ["Filles, maths, info"](https://www.youtube.com/watch?v=QrtlUwNWwzY) de l'Université de Rennes 
 -   2024 (février) : Participation aux speed-meeting des journées ["Filles, maths, info"](https://filles-et-maths.fr/evenements/journee-filles-maths-info-19-fevrier-2024/) de l'Université de Rennes
 -   2023 (octobre) : **Comprendre et rendre accessible les métiers de la "Data"**, [Journées Nationales de l'APMEP](https://jnrennes.apmep.fr/index.php?page=programme/programme&select=conferences)
 -   2022 (novembre) : **Statistique et numérique en entreprise**, [Colloque francophone international sur l'enseignement de la statistique](https://cfies2022.sciencesconf.org/resource/page/id/17)
@@ -13,6 +14,7 @@ Je suis animatrice de la [Fresque du Sexisme](https://fresque-du-sexisme.org/). 
 ::: {.content-visible when-profile="english"}
 ### Scientific Outreach
 
+-   2025 (March) : **When travel becomes a statistical question**, ["Girls, Math, Info"](https://www.youtube.com/watch?v=QrtlUwNWwzY) day at the University of Rennes
 -   2024 (February): Participation in the speed-meeting of the ["Girls, Math, Info"]((https://filles-et-maths.fr/evenements/journee-filles-maths-info-19-fevrier-2024/)) day at the University of Rennes
 -   2023 (October): **Understanding and Making Data Careers Accessible**, National Days of [APMEP]((https://jnrennes.apmep.fr/index.php?page=programme/programme&select=conferences))
 -   2022 (November): **Statistics and Digital Technology in Business**, [International Francophone Colloquium on the Teaching of Statistics](https://cfies2022.sciencesconf.org/resource/page/id/17)
