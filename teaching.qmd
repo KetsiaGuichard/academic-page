@@ -9,6 +9,12 @@
 ##### Université de Rennes
 
 -   TP - Outils informatiques (Algorithmie) en L1 Mathématiques et application (24h)
+
+##### ENSAI
+
+-   Présidence de jury - projet statistique de deuxième année (niveau M1)
+-   Vice-présidence de jury - stage de fin d'étude (niveau M2)
+
 :::
 
 ::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
@@ -71,6 +77,12 @@
 ##### Université de Rennes
 
 -   Practical Work - Computer Tools (Algorithmics) (24h - L1)
+
+##### ENSAI
+
+-   Jury President - Second-Year Statistics Project (M1)
+-   Jury Vice-President - Last-Year Internship (M2)
+
 :::
 
 
