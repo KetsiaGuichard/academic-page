@@ -3,19 +3,21 @@
 
 #### À venir
 
-- 2025 (juin) : **Attributed Graph Partitioning: Comparing K-Means and Optimal Transport in Traffic Applications**, [JDS 2025 - 56èmes Journées de Statistique de la SFDS (Marseille)](https://jds2025.sciencesconf.org/)
+- 2025 (novembre) : [Séminaire hebdomadaire du MIA (Paris-Saclay)](https://mia-ps.inrae.fr/seminaires-miaps)
+
 
 #### Passées
 
--   2024 (juin) : **Mobilité dans les zones de densité intermédiaire : une exploration spatio-temporelle de données de science citoyenne** [🔗](https://hal.science/hal-04854156), [6ème Rencontres Francophones Transport Mobilité (Bruxelles)](https://rftm2024.sciencesconf.org/)
--   2024 (juin) : **telraamStats : visualisation des mobilités pour la recherche et les citoyen·ne·s** [🔗](https://hal.science/hal-04854168), [10ème Rencontres R (Vannes)](https://rr2024.sciencesconf.org/)
--   2024 (avril) : **Exploration de données de mobilité citoyennes : cas d'étude de la ville de Châteaubourg** [🔗](https://hal.science/hal-04854133), [10ème Rencontres des Jeunes Statisticien·e·s (Porquerolles)](https://rjs2024.sciencesconf.org)
--   2024 (mars) : **Exploration de données de mobilité citoyennes par l'analyse de données fonctionnelles** [🔗](https://hal.science/hal-04845540), [Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)](https://indico.math.cnrs.fr/e/jdrs2024)
+- 2025 (juin) : **Attributed Graph Partitioning: Comparing K-Means and Optimal Transport in Traffic Applications** [(HAL 🔗)](https://hal.science/hal-05104788v1), [JDS 2025 - 56èmes Journées de Statistique de la SFDS (Marseille)](https://jds2025.sciencesconf.org/)
+-   2024 (juin) : **Mobilité dans les zones de densité intermédiaire : une exploration spatio-temporelle de données de science citoyenne** [(HAL 🔗)](https://hal.science/hal-04854156), [6ème Rencontres Francophones Transport Mobilité (Bruxelles)](https://rftm2024.sciencesconf.org/)
+-   2024 (juin) : **telraamStats : visualisation des mobilités pour la recherche et les citoyen·ne·s** [(HAL 🔗)](https://hal.science/hal-04854168), [10ème Rencontres R (Vannes)](https://rr2024.sciencesconf.org/)
+-   2024 (avril) : **Exploration de données de mobilité citoyennes : cas d'étude de la ville de Châteaubourg** [(HAL 🔗)](https://hal.science/hal-04854133), [10ème Rencontres des Jeunes Statisticien·e·s (Porquerolles)](https://rjs2024.sciencesconf.org)
+-   2024 (mars) : **Exploration de données de mobilité citoyennes par l'analyse de données fonctionnelles** [(HAL 🔗)](https://hal.science/hal-04845540), [Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)](https://indico.math.cnrs.fr/e/jdrs2024)
 
 ### Autres activités scientifiques
 
 -   conseil scientifique du [Centre Henri Lebesgue](https://www.lebesgue.fr/fr/content/gouvernance)
--   co-organisation du Séminaire Statistique des Doctorant·e·s de l'[IRMAR](https://irmar.univ-rennes.fr/)
+-   co-organisation du Séminaire Statistique des Doctorant·e·s de l'[IRMAR](https://irmar.univ-rennes.fr/) depuis septembre 2024
 -   co-organisation de la Journée Doctorant·e·s Rennais·e·s en Statistique ([mars 2024](https://indico.math.cnrs.fr/e/jdrs2024), [mai 2025](https://indico.math.cnrs.fr/e/jdrs2025))
 -   comité scientifique de l'événement [Égalité et sciences: la place des femmes](https://agenda.univ-rennes.fr/events/egalite-et-sciences-la-place-des-femmes-edition-2024?nc=eyJpbmRleCI6NDcsInRvdGFsIjoyMTY0fQ%3D%3D) (mars 2024)
 :::
@@ -25,20 +27,21 @@
 
 #### Upcoming
 
-- 2025 (June) : **Attributed Graph Partitioning: Comparing K-Means and Optimal Transport in Traffic Applications**, [56th Annual Meeting of the French Statistical Society (SFDS) (Marseille)](https://jds2025.sciencesconf.org/)
+- 2025 (November): Talk at the [Weekly Seminar of the MIA Lab (Paris-Saclay)](https://mia-ps.inrae.fr/seminaires-miaps)
 
 
 #### Past
 
--   2024 (June) : **Mobility in Medium-Density Areas: A Spatio-Temporal Exploration of Citizen Science Data** [🔗](https://hal.science/hal-04854156), [6th Rencontres Francophones Transport Mobilité (Bruxelles)](https://rftm2024.sciencesconf.org/)
--   2024 (June) : **telraamStats: Mobility Visualization for Research and Citizens**, [10th Rencontres R (Vannes)](https://rr2024.sciencesconf.org/)[🔗](https://hal.science/hal-04854168)
--   2024 (April) : **Exploration of Citizen Mobility Data: Case Study of the City of Châteaubourg** [🔗](https://hal.science/hal-04854133), [10th Rencontres des Jeunes Statisticien·e·s (Porquerolles)](https://rjs2024.sciencesconf.org)
--   2024 (March) : **Exploration of Citizen Mobility Data through Functional Data Analysis** [🔗](https://hal.science/hal-04845540), [Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)](https://indico.math.cnrs.fr/e/jdrs2024)
+- 2025 (June): **Attributed Graph Partitioning: Comparing K-Means and Optimal Transport in Traffic Applications** [(HAL 🔗)](https://hal.science/hal-05104788v1), [56th Annual Meeting of the French Statistical Society (SFDS) (Marseille)](https://jds2025.sciencesconf.org/)
+-   2024 (June): **Mobility in Medium-Density Areas: A Spatio-Temporal Exploration of Citizen Science Data** [(HAL 🔗)](https://hal.science/hal-04854156), [6th Rencontres Francophones Transport Mobilité (Bruxelles)](https://rftm2024.sciencesconf.org/)
+-   2024 (June): **telraamStats: Mobility Visualization for Research and Citizens**, [10th Rencontres R (Vannes)](https://rr2024.sciencesconf.org/)[(HAL 🔗)](https://hal.science/hal-04854168)
+-   2024 (April): **Exploration of Citizen Mobility Data: Case Study of the City of Châteaubourg** [(HAL 🔗)](https://hal.science/hal-04854133), [10th Rencontres des Jeunes Statisticien·e·s (Porquerolles)](https://rjs2024.sciencesconf.org)
+-   2024 (March): **Exploration of Citizen Mobility Data through Functional Data Analysis** [(HAL 🔗)](https://hal.science/hal-04845540), [Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)](https://indico.math.cnrs.fr/e/jdrs2024)
 
 ### Other Scientific Activities
 
 -   Scientific committee of the [Henri Lebesgue Center](https://www.lebesgue.fr/en/content/gouvernance)
--   Co-organization of the PhD Student Statistics Seminar at [IRMAR](https://irmar.univ-rennes.fr/en)
+-   Co-organization of the PhD Student Statistics Seminar at [IRMAR](https://irmar.univ-rennes.fr/en) since Septembre 2024
 -   Co-organization of the Journée Doctorant·e·s Rennais·e·s en Statistique ([March 2024](https://indico.math.cnrs.fr/e/jdrs2024), [May 2025](https://indico.math.cnrs.fr/e/jdrs2025))
 -   Scientific committee of the event [Equality and Sciences: The Role of Women](https://agenda.univ-rennes.fr/events/egalite-et-sciences-la-place-des-femmes-edition-2024?nc=eyJpbmRleCI6NDcsInRvdGFsIjoyMTY0fQ%3D%3D) (March 2024)
 :::
