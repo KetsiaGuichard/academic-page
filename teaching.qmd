@@ -12,7 +12,6 @@
 -   TD d'analyse en L1 Mathématiques (36h)
 :::
 
-::: {.content-visible when-profile="french"}
 ::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
 # Année 2024-2025
 
