@@ -95,7 +95,6 @@
 :::
 
 
-::: {.content-visible when-profile="english"}
 ::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
 # Academic Year 2024-2025
 
