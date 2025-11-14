@@ -3,8 +3,8 @@
 
 #### À venir
 
-- 2025 (novembre) : **Partitionnement de graphes attribués par des méthodes basées sur la distance de Gromov-Wasserstein**[Séminaire hebdomadaire du MIA (Paris-Saclay)](https://mia-ps.inrae.fr/seminaires-miaps)
-- 2025 (novembre) : **Des réseaux de mobilités comme un graphe attribué : partitionnement par des méthodes basées sur la distance**[10èmes Rencontres de Statistique de Vannes - Sciences des données, histoire et territoire](https://www.lebesgue.fr/fr/rencontresstat25)
+- 2025 (novembre) : **Partitionnement de graphes attribués par des méthodes basées sur la distance de Gromov-Wasserstein**, [Séminaire hebdomadaire du MIA (Paris-Saclay)](https://mia-ps.inrae.fr/node/866)
+- 2025 (novembre) : **Des réseaux de mobilités comme un graphe attribué : partitionnement par des méthodes basées sur la distance**, [10èmes Rencontres de Statistique de Vannes - Sciences des données, histoire et territoire](https://www.lebesgue.fr/fr/rencontresstat25)
 
 #### Passées
 
@@ -27,9 +27,9 @@
 
 #### Upcoming
 
-- 2025 (November): Talk at the [Weekly Seminar of the MIA Lab (Paris-Saclay)](https://mia-ps.inrae.fr/seminaires-miaps)
-- 2025 (Novembre): 
+- 2025 (November): **Attributed Graph Partitioning Using Gromov–Wasserstein–Based Methods**, [Weekly MIA Seminar (Paris-Saclay)](https://mia-ps.inrae.fr/node/866)
 
+- 2025 (November): **Mobility Networks as Attributed Graphs: Partitioning with Distance-Based Methods**, [10th Vannes Statistics Meeting – Data Science, History and Territory](https://www.lebesgue.fr/fr/rencontresstat25)
 
 #### Past
 
