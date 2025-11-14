@@ -1,17 +1,31 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Unable to display PDF file. Download instead."
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Ketsia Guichard",
     "section": "",
-    "text": "Academic Year 2025-2026\n\n\n\n\n\n\nDigisport (ENSAI, ENS Rennes, Université Rennes 2)\n\nLecture - Probability and Statistics Review for the Master’s in Digital Sciences and Sports (22 hours - M1)\n\n\n\nUniversité de Rennes\n\nTutorial - Analysis (36h - L1)\n\n\n\n\n\n\n\n\n\n\n\nAcademic Year 2024-2025\n\n\n\n\n\n\nDigisport (ENSAI, ENS Rennes, Université Rennes 2)\n\nLecture - Probability and Statistics Review for the Master’s in Digital Sciences and Sports (22 hours - M1)\n\n\n\nUniversité de Rennes\n\nPractical Work - Computer Tools (Algorithmics) (24h - L1)\n\n\n\nENSAI\n\nJury President - Second-Year Statistics Project (M1)\nJury Vice-President - Last-Year Internship (M2)\n\n\n\n\n\n\n\n\n\n\n\nAcademic Year 2023-2024\n\n\n\n\n\n\nDigisport (ENSAI, ENS Rennes, Université Rennes 2)\n\nLecture - Probability and Statistics Review for the Master’s in Digital Sciences and Sports (22 hours - M1)\n\n\n\nUniversité de Rennes\n\nPractical Work - Computer Tools (Algorithmics) (24h - L1)\n\n\n\nUniversité de Rennes 2\n\nLecture & Tutorial - Mathematics for Social Sciences (24 hours - L1)\n\n\n\nENSAI\n\nJury President - Second-Year Statistics Project\n\n\n\n\n\n\n\n\n\n\n\nAcademic Year 2022-2023\n\n\n\n\n\nENSAI\n\nLecture - Exploratory Statistics, Data Visualization, and Data Storytelling (24 hours - Specialized Master’s)\nTutorial - Markov Chain (18 hours - M1)\nPractical Work - Introduction to Object-Oriented Programming with Python (42 hours - L3)\nProject Guidance - Statistical Project on Real Data (36 hours - 8 groups - L3)\nJury President - Second-Year Statistics Project\n\n\n\n\n\n\n\n\n\n\nAcademic Year 2021-2022\n\n\n\n\n\nENSAI\n\nLecture - Data Visualization and Data Storytelling (18 hours - Specialized Master’s)\nJury President - Second-Year Statistics Project"
+    "text": "TipAcademic Year 2025-2026\n\n\n\n\n\n\nDigisport (ENSAI, ENS Rennes, Université Rennes 2)\n\nLecture - Probability and Statistics Review for the Master’s in Digital Sciences and Sports (22 hours - M1)\n\n\n\nUniversité de Rennes\n\nTutorial - Analysis (36h - L1)\n\n\n\n\n\n\n\n\n\n\n\nTipAcademic Year 2024-2025\n\n\n\n\n\n\nDigisport (ENSAI, ENS Rennes, Université Rennes 2)\n\nLecture - Probability and Statistics Review for the Master’s in Digital Sciences and Sports (22 hours - M1)\n\n\n\nUniversité de Rennes\n\nPractical Work - Computer Tools (Algorithmics) (24h - L1)\n\n\n\nENSAI\n\nJury President - Second-Year Statistics Project (M1)\nJury Vice-President - Last-Year Internship (M2)\n\n\n\n\n\n\n\n\n\n\n\nTipAcademic Year 2023-2024\n\n\n\n\n\n\nDigisport (ENSAI, ENS Rennes, Université Rennes 2)\n\nLecture - Probability and Statistics Review for the Master’s in Digital Sciences and Sports (22 hours - M1)\n\n\n\nUniversité de Rennes\n\nPractical Work - Computer Tools (Algorithmics) (24h - L1)\n\n\n\nUniversité de Rennes 2\n\nLecture & Tutorial - Mathematics for Social Sciences (24 hours - L1)\n\n\n\nENSAI\n\nJury President - Second-Year Statistics Project\n\n\n\n\n\n\n\n\n\n\n\nTipAcademic Year 2022-2023\n\n\n\n\n\nENSAI\n\nLecture - Exploratory Statistics, Data Visualization, and Data Storytelling (24 hours - Specialized Master’s)\nTutorial - Markov Chain (18 hours - M1)\nPractical Work - Introduction to Object-Oriented Programming with Python (42 hours - L3)\nProject Guidance - Statistical Project on Real Data (36 hours - 8 groups - L3)\nJury President - Second-Year Statistics Project\n\n\n\n\n\n\n\n\n\n\nTipAcademic Year 2021-2022\n\n\n\n\n\nENSAI\n\nLecture - Data Visualization and Data Storytelling (18 hours - Specialized Master’s)\nJury President - Second-Year Statistics Project"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ketsia Guichard-Sustowski",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Ketsia Guichard",
     "section": "",
-    "text": "I have been a PhD student in statistics since October 2023 at IRMAR, under the supervision of Loïc Le Marrec, Véronique Thelen and Ioana Gavra. I am interested in the partitioning of attributed graphs using methods derived from optimal transport. My application focuses on movements within a road network, using the city of Châteaubourg as my playground.\nGraduated from ENSAI, I worked for six years as a Data Scientist. My professional experience has allowed me to acquire expertise in handling real data and the ability to communicate complex ideas effectively. After teaching at an engineering school, my PhD marks a new step, driven by my interest in ethical issues and exploring practical applications in the field of mobility."
+    "text": "Conferences\n\nUpcoming\n\n2025 (November): Talk at the Weekly Seminar of the MIA Lab (Paris-Saclay)\n2025 (Novembre):\n\n\n\nPast\n\n2025 (June): Attributed Graph Partitioning: Comparing K-Means and Optimal Transport in Traffic Applications (HAL 🔗), 56th Annual Meeting of the French Statistical Society (SFDS) (Marseille)\n2024 (June): Mobility in Medium-Density Areas: A Spatio-Temporal Exploration of Citizen Science Data (HAL 🔗), 6th Rencontres Francophones Transport Mobilité (Bruxelles)\n2024 (June): telraamStats: Mobility Visualization for Research and Citizens, 10th Rencontres R (Vannes)(HAL 🔗)\n2024 (April): Exploration of Citizen Mobility Data: Case Study of the City of Châteaubourg (HAL 🔗), 10th Rencontres des Jeunes Statisticien·e·s (Porquerolles)\n2024 (March): Exploration of Citizen Mobility Data through Functional Data Analysis (HAL 🔗), Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)\n\n\n\n\nOther Scientific Activities\n\nScientific committee of the Henri Lebesgue Center\nCo-organization of the PhD Student Statistics Seminar at IRMAR since Septembre 2024\nCo-organization of the Journée Doctorant·e·s Rennais·e·s en Statistique (March 2024, May 2025)\nScientific committee of the event Equality and Sciences: The Role of Women (March 2024)"
+  },
+  {
+    "objectID": "others.html",
+    "href": "others.html",
+    "title": "Ketsia Guichard",
+    "section": "",
+    "text": "Scientific Outreach\n\n2025 (May): The city as a road network: what can statistics teach us about our mobility?, Award ceremony of the Brittany Mathematical Rally, IREM of Rennes\n2025 (March) : When travel becomes a statistical question, “Girls, Math, Info” day at the University of Rennes\n2024 (February): Participation in the speed-meeting of the “Girls, Math, Info” day at the University of Rennes\n2023 (October): Understanding and Making Data Careers Accessible, National Days of APMEP\n2022 (November): Statistics and Digital Technology in Business, International Francophone Colloquium on the Teaching of Statistics\n\n\n\nWorkshop Facilitation\nI am a facilitator for the Fresque du Sexisme. This is a 3-hour collective intelligence workshop aimed at deconstructing the mechanisms of sexism and envisioning a more equal society. Inspired by the format of the Climate Fresk, this workshop was created by the Fresque du Sexisme association and is currently being implemented throughout France. It not only provides key information and statistics on sexism but also offers a small group discussion space where women and men can share their experiences and thoughts on gender-related expectations."
   },
   {
     "objectID": "softwares.html",
@@ -21,24 +35,10 @@
     "text": "R\nI am a contributor and the maintainer to the R package telraamStats, available directly on CRAN, which allows for:\n\neasily retrieving data from Telraam mobility sensors without using the API ;\nvisualizing this mobility information (speed, traffic, etc.).\n\nThis general-purpose package is intended for a wide range of audiences, both in academic disciplines (statistics, mobility, economics, geography, etc.) and professional profiles (research, associations, municipalities).\nFor a better overview of the package, you can consult its documentation and usage examples at this adress."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Ketsia Guichard",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ketsia Guichard-Sustowski",
     "section": "",
-    "text": "Conferences\n\nUpcoming\n\n2025 (November): Talk at the Weekly Seminar of the MIA Lab (Paris-Saclay)\n\n\n\nPast\n\n2025 (June): Attributed Graph Partitioning: Comparing K-Means and Optimal Transport in Traffic Applications (HAL 🔗), 56th Annual Meeting of the French Statistical Society (SFDS) (Marseille)\n2024 (June): Mobility in Medium-Density Areas: A Spatio-Temporal Exploration of Citizen Science Data (HAL 🔗), 6th Rencontres Francophones Transport Mobilité (Bruxelles)\n2024 (June): telraamStats: Mobility Visualization for Research and Citizens, 10th Rencontres R (Vannes)(HAL 🔗)\n2024 (April): Exploration of Citizen Mobility Data: Case Study of the City of Châteaubourg (HAL 🔗), 10th Rencontres des Jeunes Statisticien·e·s (Porquerolles)\n2024 (March): Exploration of Citizen Mobility Data through Functional Data Analysis (HAL 🔗), Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)\n\n\n\n\nOther Scientific Activities\n\nScientific committee of the Henri Lebesgue Center\nCo-organization of the PhD Student Statistics Seminar at IRMAR since Septembre 2024\nCo-organization of the Journée Doctorant·e·s Rennais·e·s en Statistique (March 2024, May 2025)\nScientific committee of the event Equality and Sciences: The Role of Women (March 2024)"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Unable to display PDF file. Download instead."
-  },
-  {
-    "objectID": "others.html",
-    "href": "others.html",
-    "title": "Ketsia Guichard",
-    "section": "",
-    "text": "Scientific Outreach\n\n2025 (May): The city as a road network: what can statistics teach us about our mobility?, Award ceremony of the Brittany Mathematical Rally, IREM of Rennes\n2025 (March) : When travel becomes a statistical question, “Girls, Math, Info” day at the University of Rennes\n2024 (February): Participation in the speed-meeting of the “Girls, Math, Info” day at the University of Rennes\n2023 (October): Understanding and Making Data Careers Accessible, National Days of APMEP\n2022 (November): Statistics and Digital Technology in Business, International Francophone Colloquium on the Teaching of Statistics\n\n\n\nWorkshop Facilitation\nI am a facilitator for the Fresque du Sexisme. This is a 3-hour collective intelligence workshop aimed at deconstructing the mechanisms of sexism and envisioning a more equal society. Inspired by the format of the Climate Fresk, this workshop was created by the Fresque du Sexisme association and is currently being implemented throughout France. It not only provides key information and statistics on sexism but also offers a small group discussion space where women and men can share their experiences and thoughts on gender-related expectations."
+    "text": "I have been a PhD student in statistics since October 2023 at IRMAR, under the supervision of Loïc Le Marrec, Véronique Thelen and Ioana Gavra. I am interested in the partitioning of attributed graphs using methods derived from optimal transport. My application focuses on movements within a road network, using the city of Châteaubourg as my playground.\nGraduated from ENSAI, I worked for six years as a Data Scientist. My professional experience has allowed me to acquire expertise in handling real data and the ability to communicate complex ideas effectively. After teaching at an engineering school, my PhD marks a new step, driven by my interest in ethical issues and exploring practical applications in the field of mobility."
   }
 ]
