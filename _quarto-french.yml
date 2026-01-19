@@ -23,7 +23,7 @@ website:
         text: English
     search: false
   page-footer: 
-    left: Ce site a été construit à l'aide de [Quarto](https://quarto.org/) - dernière mise à jour Mai 2025.
+    left: Ce site a été construit à l'aide de [Quarto](https://quarto.org/) - dernière mise à jour Janvier 2026.
     right: 
      - icon: github
        href: https://github.com/KetsiaGuichard/academic-page
