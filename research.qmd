@@ -5,6 +5,9 @@
 
 ### Conférences
 
+#### À venir
+- 2026 (mars) : **Partitionnement de graphes attribués par des méthodes basées sur la distance de Gromov-Wasserstein**, [Séminaire de l'équipe COMPACT de l'IRISA (Rennes)](https://team.inria.fr/compact/)
+
 #### Passées
 
 - 2025 (novembre) : **Partitionnement de graphes attribués par des méthodes basées sur la distance de Gromov-Wasserstein**, [Séminaire hebdomadaire du MIA (Paris-Saclay)](https://mia-ps.inrae.fr/node/866)
@@ -30,6 +33,10 @@
 - **Optimal Transport-Based Clustering of Attributed Graphs with an Application to Road Traffic Data** [(ArXiv 🔗)](https://arxiv.org/abs/2512.15570), submitted
 
 ### Conferences
+
+#### 
+- 2026 (March) : **Attributed Graph Partitioning Using Gromov–Wasserstein–Based Methods**, [COMPACT Team Seminar (IRISA - Rennes)](https://team.inria.fr/compact/)
+
 
 #### Past
 
