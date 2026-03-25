@@ -34,7 +34,7 @@
 
 ### Conferences
 
-#### 
+#### Upcoming
 - 2026 (March) : **Attributed Graph Partitioning Using Gromov–Wasserstein–Based Methods**, [COMPACT Team Seminar (IRISA - Rennes)](https://team.inria.fr/compact/)
 
 
