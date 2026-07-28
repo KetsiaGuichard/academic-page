@@ -2,14 +2,13 @@
 ### Pré-publication
 
 - **Optimal Transport-Based Clustering of Attributed Graphs with an Application to Road Traffic Data** [(ArXiv 🔗)](https://arxiv.org/abs/2512.15570), soumis
+- **Integrating Structure and Attributes for Transportation Network Partitioning via Optimal Transport** [(ArXiv 🔗)](https://arxiv.org/abs/2607.24506), soumis
 
 ### Conférences & Séminaires
 
-#### À venir
-- 2026 (mars) : **Partitionnement de graphes attribués par des méthodes basées sur la distance de Gromov-Wasserstein**, [Séminaire de l'équipe COMPACT de l'IRISA (Rennes)](https://team.inria.fr/compact/)
-
 #### Passées
 
+- 2026 (mars) : **Partitionnement de graphes attribués par des méthodes basées sur la distance de Gromov-Wasserstein**, [Séminaire de l'équipe COMPACT de l'IRISA (Rennes)](https://team.inria.fr/compact/)
 - 2025 (novembre) : **Partitionnement de graphes attribués par des méthodes basées sur la distance de Gromov-Wasserstein**, [Séminaire hebdomadaire du MIA (Paris-Saclay)](https://mia-ps.inrae.fr/node/866)
 - 2025 (novembre) : **Des réseaux de mobilités comme un graphe attribué : partitionnement par des méthodes basées sur la distance** [(HAL 🔗)](https://hal.science/hal-05442445v1), [10èmes Rencontres de Statistique de Vannes - Sciences des données, histoire et territoire](https://www.lebesgue.fr/fr/rencontresstat25)
 - 2025 (juin) : **Attributed Graph Partitioning: Comparing K-Means and Optimal Transport in Traffic Applications** [(HAL 🔗)](https://hal.science/hal-05104788v1), [JDS 2025 - 56èmes Journées de Statistique de la SFDS (Marseille)](https://jds2025.sciencesconf.org/)
@@ -31,15 +30,13 @@
 ### Preprint
 
 - **Optimal Transport-Based Clustering of Attributed Graphs with an Application to Road Traffic Data** [(ArXiv 🔗)](https://arxiv.org/abs/2512.15570), submitted
+- **Integrating Structure and Attributes for Transportation Network Partitioning via Optimal Transport** [(ArXiv 🔗)](https://arxiv.org/abs/2607.24506), submitted
 
 ### Talks
 
-#### Upcoming
-- 2026 (March) : **Attributed Graph Partitioning Using Gromov–Wasserstein–Based Methods**, [COMPACT Team Seminar (IRISA - Rennes)](https://team.inria.fr/compact/)
-
-
 #### Past
 
+- 2026 (March) : **Attributed Graph Partitioning Using Gromov–Wasserstein–Based Methods**, [COMPACT Team Seminar (IRISA - Rennes)](https://team.inria.fr/compact/)
 - 2025 (November): **Attributed Graph Partitioning Using Gromov–Wasserstein–Based Methods**, [Weekly MIA Seminar (Paris-Saclay)](https://mia-ps.inrae.fr/node/866)
 - 2025 (November): **Mobility Networks as Attributed Graphs: Partitioning with Distance-Based Methods** [(HAL 🔗)](https://hal.science/hal-05442445v1), [10th Vannes Statistics Meeting – Data Science, History and Territory](https://www.lebesgue.fr/fr/rencontresstat25)
 - 2025 (June): **Attributed Graph Partitioning: Comparing K-Means and Optimal Transport in Traffic Applications** [(HAL 🔗)](https://hal.science/hal-05104788v1), [56th Annual Meeting of the French Statistical Society (SFDS) (Marseille)](https://jds2025.sciencesconf.org/)
